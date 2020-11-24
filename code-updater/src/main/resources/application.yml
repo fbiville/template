@@ -1,0 +1,10 @@
+sandbox:
+  repositories: # please either configure watched sandbox repositories here or in CI via environment variables but not both
+    - https://github.com/fbiville/graph-data-science.git
+    - https://github.com/fbiville/movies.git
+    - https://github.com/fbiville/northwind.git
+github:
+  address: https://api.github.com
+  username:
+  token:
+  workspace:
